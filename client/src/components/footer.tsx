@@ -37,7 +37,7 @@ export default function Footer() {
           
           <div className="border-t border-gray-700 pt-8">
             <p className="text-gray-400 text-sm">
-              © 2024 Navin Kumar S. All rights reserved. | Designed with 💜 using modern web technologies
+              © 2024 Navin Kumar S. All rights reserved. | Designed with ❤️ by Navin using modern web technologies
             </p>
           </div>
         </div>
