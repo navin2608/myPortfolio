@@ -13,23 +13,23 @@ export default function AboutSection() {
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold text-accent">Professional Summary</h3>
             <p className="text-gray-300 leading-relaxed">
-              Result-oriented Front-end Developer with nearly 3.5 years of experience in the FinTech/Digital Banking domain. 
-              Currently working with i-exceed Technology Solutions Pvt. Ltd., specializing in creating user-friendly interfaces 
-              using modern web technologies.
+              Result-oriented Front-end Developer with nearly 4.5 years of experience in the FinTech/Digital Banking domain. 
+              Currently working with Right Prompt Technology Solutions Pvt. Ltd., specializing in creating user-friendly interfaces 
+              using modern web technologies & Previously associated with i-exceed Technology Solutions Pvt. Ltd.
             </p>
             <p className="text-gray-300 leading-relaxed">
-              Proficient in React, JavaScript, HTML5, CSS3, and various modern frameworks. Successfully delivered projects 
+              Proficient in React,React Native JavaScript, HTML5, CSS3, and various modern frameworks. Successfully delivered projects 
               within tight deadlines while maintaining high standards of quality. Strong problem-solving and analytical skills 
               with excellent communication abilities.
             </p>
             
             <div className="grid grid-cols-2 gap-6 mt-8">
               <div className="bg-gray-700 p-6 rounded-xl hover:bg-gray-600 transition-colors duration-300">
-                <h4 className="text-3xl font-bold text-success">3.5+</h4>
+                <h4 className="text-3xl font-bold text-success">4.5+</h4>
                 <p className="text-gray-300">Years Experience</p>
               </div>
               <div className="bg-gray-700 p-6 rounded-xl hover:bg-gray-600 transition-colors duration-300">
-                <h4 className="text-3xl font-bold text-warning">5+</h4>
+                <h4 className="text-3xl font-bold text-warning">7+</h4>
                 <p className="text-gray-300">Projects Completed</p>
               </div>
               <div className="bg-gray-700 p-6 rounded-xl hover:bg-gray-600 transition-colors duration-300">
@@ -53,7 +53,7 @@ export default function AboutSection() {
             <div className="absolute -bottom-6 -right-6 bg-gradient-to-r from-primary to-secondary p-6 rounded-xl shadow-2xl">
               <div className="text-center">
                 <h4 className="text-2xl font-bold">Currently at</h4>
-                <p className="text-sm opacity-90">i-exceed Technology</p>
+                <p className="text-sm opacity-90">Right Prompt Technologies</p>
               </div>
             </div>
           </div>
