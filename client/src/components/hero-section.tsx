@@ -46,7 +46,7 @@ export default function HeroSection() {
           </h1>
           <p className="text-xl md:text-2xl mb-4 text-gray-200">Front-end Developer</p>
           <p className="text-lg md:text-xl mb-8 text-gray-300 max-w-2xl mx-auto">
-            Crafting beautiful, responsive web experiences with 3.5+ years in FinTech. 
+            Crafting beautiful, responsive web experiences with 4.5+ years in FinTech. 
             Specializing in React, JavaScript, and modern web technologies.
           </p>
           

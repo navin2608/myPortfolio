@@ -152,7 +152,7 @@ export default function ContactSection() {
                 </div>
                 <div className="flex items-center justify-between">
                   <span className="text-gray-300">Experience</span>
-                  <span className="text-white font-medium">3.5+ Years</span>
+                  <span className="text-white font-medium">4.5+ Years</span>
                 </div>
                 <div className="flex items-center justify-between">
                   <span className="text-gray-300">Availability</span>

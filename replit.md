@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a professional portfolio website for Navin Kumar S, a Front-end Developer with 3.5+ years of experience in the FinTech/Digital Banking domain. The application is built as a full-stack web application using React for the frontend and Express.js for the backend, with a modern tech stack including TypeScript, Tailwind CSS, and shadcn/ui components.
+This is a professional portfolio website for Navin Kumar S, a Front-end Developer with 4.5+ years of experience in the FinTech/Digital Banking domain. The application is built as a full-stack web application using React for the frontend and Express.js for the backend, with a modern tech stack including TypeScript, Tailwind CSS, and shadcn/ui components.
 
 ## User Preferences
 
